@@ -1,0 +1,81 @@
+Algoritmo "semnome"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Antonio Carlos Nicolodi 
+// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Autor(a)    : Nome do(a) aluno(a)
+// Data atual  : 12/08/2020
+Var
+nome, sexo, endereco, cidade, estado, nomepai, nomemae, escolaridade : caracter
+rg, nascimento, cep, telefone : inteiro
+
+Inicio
+escreval ("declare seus dados de cadastro")
+escreval()
+escreva ("nome: ")
+leia (nome)
+escreval()
+escreva ("sexo: ")
+leia (sexo)
+escreval()
+escreva ("data de nascimento: ")
+leia (nascimento)
+escreval()
+escreva ("RG: ")
+leia (rg)
+escreval()
+escreva ("estado: ")
+leia (estado)
+escreval()
+escreva ("cidade: ")
+leia (cidade)
+escreval()
+escreva ("endereço: ")
+leia (endereco)
+escreval()
+escreva ("CEP: ")
+leia (cep)
+escreval()
+escreva ("nome do pai: ")
+leia (nomepai)
+escreval()
+escreva ("nome da mãe: ")
+leia (nomemae)
+escreval()
+escreva ("escolaridade: ")
+leia (escolaridade)
+escreval()
+escreva ("telefone: ")
+leia (telefone)
+
+escreval()
+escreval()
+
+escreval ("dados cadastrados com sucesso")
+
+escreval()
+escreva ("nome: ", nome)
+escreval()
+escreva ("sexo: ", sexo)
+escreval()
+escreva ("data de nascimento: ", nascimento)
+escreval()
+escreva ("RG: ", rg)
+escreval()
+escreva ("estado: ", estado)
+escreval()
+escreva ("cidade: ", cidade)
+escreval()
+escreva ("endereço: ", endereco)
+escreval()
+escreva ("CEP: ", cep)
+escreval()
+escreva ("nome do pai: ", nomepai)
+escreval()
+escreva ("nome da mãe: ", nomemae)
+escreval()
+escreva ("escolaridade: ", escolaridade)
+escreval()
+escreva ("telefone: ", telefone)
+
+
+Fimalgoritmo
